@@ -11,7 +11,7 @@ for i in range(1,len(l)):
     b = l[i]
     a = add(a,b)
 
-print(myreduce(a,l))
+print(myreduce(a))
 
 
 
